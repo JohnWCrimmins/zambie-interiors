@@ -36,7 +36,7 @@ body {
 }
 
 .index-body {
-    background: url(./construction_background.jpg) no-repeat center center fixed;
+    background: url(../../img/construction_background.jpg) no-repeat center center fixed;
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
